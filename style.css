@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(17, 81, 119, 0.507);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    font-size: 70px;
+    font-weight: 600;
+    color: white;
+}
+.number{
+    font-size: 60px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+.btn{
+    display: block;
+    text-align: center;
+    padding: 20px 100px;
+    margin: auto;
+    cursor: pointer;
+    border-radius: 7px;
+
+}
+#btn-1{
+    background-color:darkred;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+#btn-2{
+    margin-top: 30px;
+    background-color: darkviolet;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
